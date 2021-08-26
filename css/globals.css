@@ -1,0 +1,16 @@
+/*
+  ESTILOS GLOBAIS
+*/
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@400;500;600;700&display=swap");
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  font-size: 1.8rem;
+  line-height: 1.5;
+  background-color: #353535;
+  color: #fff;
+  font-family: "Raleway", sans-serif;
+}
